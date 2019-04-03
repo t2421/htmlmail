@@ -1,0 +1,21 @@
+{
+  "name": "htmlmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inline-css": "^2.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-inline-css": "^3.3.1",
+    "html-inline": "^1.2.0"
+  }
+}
